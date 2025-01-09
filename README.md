@@ -11,6 +11,8 @@ This CMS is a web application developed by Laravel framework. It has the followi
 - Diagnoses
 - Facilities
 
+- More Modules Coming up. SMS Intergration, Email Communication.
+
 
 ## Requirements
 
@@ -33,4 +35,4 @@ This CMS is a web application developed by Laravel framework. It has the followi
 
 ## License
 
-This Application is developed and licensed under the [Techdev Systems](https:techdevsystems.co.ke).
+This Application is developed and licensed under Kemkip
