@@ -112,8 +112,8 @@ class Controller extends BaseController
         
             //require_once('AfricasTalkingGateway.php');
 
-            $username   = "danstan";
-            $apikey     = "69727f2865dd3564454e3c865ae1df01e1afa6a878a2933f8c098604eda7ab48";
+            $username   = "wee";
+            $apikey     = "ytry";
 
             $recipients = $number;
             $message    = $msg;
